@@ -14,10 +14,10 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
+  - name:         规范
     url:          /book
     external:     false
-  - name:         旅游
+  - name:         流程
     url:          /road
     external:     false
   - name:         归档
